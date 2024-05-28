@@ -1,4 +1,4 @@
-# Gohetia_Sheldon_Project2-main.zip
+# Gohetia_Sheldon_Project2
 
 This repo is for the Homework 2 - Practice Scaffold
 
