@@ -2,6 +2,20 @@
 
 This repo is for the Homework 2 - Practice Scaffold
 
+## Output Screenshots
+
+### Mobile
+
+![Mobile Screenshot](images/mobile-ss.png)
+
+### Tablet
+
+![Tablet Screenshot](images/tablet-ss.png)
+
+### Desktop
+
+![Desktop Screenshot](images/desktop-ss.png)
+
 ## Installation
 
 No installation is required.
